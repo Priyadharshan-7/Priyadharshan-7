@@ -1,263 +1,186 @@
-<!-- ========================================================================= -->
-<!-- 🌌 PRIYADHARSHAN | FUTURISTIC GLASSMORPHISM DEVELOPER PORTFOLIO           -->
-<!-- ========================================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+  3D / NEON DEVELOPER DASHBOARD — GitHub Profile README
+  Replace YOUR_USERNAME and the sample project links below.
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-  <!-- Self-contained Neon Glassmorphism Animated Banner -->
-  <a href="https://github.com/Priyadharshan-7">
-    <img src="./banner.svg" alt="Priyadharshan's Neon Cyberpunk Banner" width="100%"/>
-  </a>
+<img src="assets/header.svg" width="100%" alt="Animated futuristic developer dashboard header" />
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://github.com/Priyadharshan-7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Engineer;Flutter+%26+Mobile+App+Developer;AI+%2F+Machine+Learning+Enthusiast;Cybersecurity+%26+Reverse+Engineering+Explorer" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=65F4F0&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+ideas+into+working+software;B.Tech+Information+Technology+Student;Flutter+%7C+AI%2FML+%7C+Full-Stack+Development;Curious+mind.+Consistent+builder." alt="Animated typing intro" />
+</a>
 
-  <p>
-    <i>"Architecting innovative software at the convergence of Artificial Intelligence, Mobile Systems, and Security."</i>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-8B5CF6?style=for-the-badge&labelColor=101225" alt="Focus AI ML" />
+  <img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-22D3EE?style=for-the-badge&labelColor=101225" alt="Building real projects" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-F472B6?style=for-the-badge&labelColor=101225" alt="Always learning" />
+</p>
 
-  <!-- Profile Visitor Counter & Followers Badge -->
-  <p>
-    <a href="https://github.com/Priyadharshan-7">
-      <img src="https://komarev.com/ghpvc/?username=Priyadharshan-7&label=PORTAL+VISITORS&color=00F5FF&style=flat-square" alt="Visitors Count" />
-    </a>
-    <a href="https://github.com/Priyadharshan-7?tab=followers">
-      <img src="https://img.shields.io/github/followers/Priyadharshan-7?label=FOLLOWERS&style=flat-square&color=7928CA&logo=github&logoColor=white" alt="Followers" />
-    </a>
-  </p>
-
-  <!-- Connect / Social Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/priyadharshan7" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:priyadharshanravichandran2@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/Priyadharshan-7">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
-    </a>
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
 ---
 
-### 🧊 01. Developer Dossier
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ MISSION PROFILE</h4>
-      <ul>
-        <li>🎓 <b>Discipline:</b> B.Tech in Information Technology</li>
-        <li>💡 <b>Engineering Philosophy:</b> High-velocity problem solving with clean architecture</li>
-        <li>🔬 <b>Current Research:</b> LLM-assisted static and behavioral binary analysis</li>
-        <li>🎯 <b>Immediate Target:</b> Securing software engineering roles & building scalable impact</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔮 CORE SPECIALIZATIONS</h4>
-      <ul>
-        <li>📱 <b>Cross-Platform:</b> Modern Flutter & Dart reactive architectures</li>
-        <li>🧠 <b>Intelligent Systems:</b> Applied ML, Vision systems & Predictive models</li>
-        <li>🛡️ <b>Cyber Defense:</b> Application security, reverse engineering & threat telemetry</li>
-        <li>🌐 <b>Systems:</b> Full-stack development & database normalization</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ 02. Tech Stack Matrix
-
-<div align="center">
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### 📱 App & Full-Stack Web Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🧠 Machine Learning & Data Systems
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### ⚙️ Developer Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</p>
-
-#### 🔬 Currently Exploring & Researching
-<p>
-  <img src="https://img.shields.io/badge/LLMs_%26_Generative_AI-7928CA?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI--Powered_Security_Auditing-00F5FF?style=flat-square&logo=shield&logoColor=black" alt="Security Auditing" />
-  <img src="https://img.shields.io/badge/APK_Reverse_Engineering-FF007A?style=flat-square&logo=target&logoColor=white" alt="Reverse Engineering" />
-</p>
-
-</div>
-
----
-
-### 🚀 03. Featured Projects Showcase
+## ◈ `01 / SYSTEM OVERVIEW`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ 01. AI-Based APK Malware Detection</h3>
-      <p>An intelligent Android security analyzer combining decompilation, permission static telemetry, and LLM reasoning to identify malicious APK payloads and suspicious bytecode heuristics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Active_Development-00F5FF?style=flat-square"/>
-      </p>
-      <code>Python</code> <code>Flutter</code> <code>LLMs</code> <code>Android Security</code>
-      <br/><br/>
-      👉 <a href="https://github.com/Priyadharshan-7"><b>Inspect Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎭 02. Real-Time Face Emotion Detection</h3>
-      <p>Computer vision system powered by OpenCV and machine learning classifiers that tracks facial landmarks in real time, detecting micro-expressions and emotion sentiment indices.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Completed-7928CA?style=flat-square"/>
-      </p>
-      <code>Python</code> <code>OpenCV</code> <code>Scikit-Learn</code> <code>Computer Vision</code>
-      <br/><br/>
-      👉 <a href="https://github.com/Priyadharshan-7"><b>Inspect Repository</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 03. Fake Job Detection Engine</h3>
-      <p>A natural language processing and machine learning pipeline that inspects fraudulent online recruitment postings through textual entropy, metadata anomalies, and spam classification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Completed-00F5FF?style=flat-square"/>
-      </p>
-      <code>Python</code> <code>NLP</code> <code>Scikit-Learn</code> <code>Classification</code>
-      <br/><br/>
-      👉 <a href="https://github.com/Priyadharshan-7"><b>Inspect Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 04. Cross-Platform Flutter Innovations</h3>
-      <p>Production-ready mobile applications built with reactive state management, offline-first SQLite synchronization, and sleek glassmorphic UI components.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Continuous_Build-7928CA?style=flat-square"/>
-      </p>
-      <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>REST APIs</code>
-      <br/><br/>
-      👉 <a href="https://github.com/Priyadharshan-7"><b>Inspect Repository</b></a>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+### Hey, I'm Priyadharshan 👋
+
+I'm an **Information Technology student** who enjoys turning ideas into useful applications and exploring how AI can make software smarter.
+
+- 🔭 **Currently building:** AI-powered tools and developer projects
+- 🧠 **Exploring:** Machine Learning, LLMs, Flutter, and full-stack development
+- 🛠️ **I enjoy:** Problem-solving, experimenting, and learning by building
+- 🎯 **Goal:** Grow into a strong software engineer and build products with real impact
+- ⚡ **Mindset:** Learn → Build → Test → Improve
+
+</td>
+<td width="42%" valign="top">
+
+<img src="assets/side-panel.svg" width="100%" alt="Animated system status panel" />
+
+</td>
+</tr>
 </table>
 
----
-
-### 📊 04. Telemetry & GitHub Statistics
+## ◈ `02 / TECH STACK`
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Priyadharshan-7">
-          <img src="https://github-readme-stats.vercel.app/api?username=Priyadharshan-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF007A&text_color=E0E6ED" alt="Priyadharshan's GitHub Stats" width="410" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Priyadharshan-7">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshan-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E0E6ED" alt="Top Languages" width="350" />
-        </a>
-      </td>
-    </tr>
-  </table>
 
-  <!-- Streak Stats -->
-  <p>
-    <a href="https://github.com/Priyadharshan-7">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharshan-7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF007A&currStreakNum=00F5FF" alt="GitHub Streak" width="760"/>
-    </a>
-  </p>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,sql&theme=dark" alt="Java Python Dart JavaScript HTML CSS SQL icons" />
+
+### Frameworks, tools & platforms
+<img src="https://skillicons.dev/icons?i=flutter,flask,react,nodejs,mysql,git,github,vscode,androidstudio,linux&theme=dark" alt="Flutter Flask React Node.js MySQL Git GitHub VS Code Android Studio Linux icons" />
+
 </div>
 
----
+> **Note:** These are technologies I work with or am exploring. Update the list to match your current skill level.
 
-### 🏆 05. Credentials & Milestones
-
-<table>
-  <thead>
-    <tr>
-      <th>Badge / Domain</th>
-      <th>Certification / Milestone</th>
-      <th>Issuer / Organization</th>
-      <th>Verification</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🎓 <b>Academics</b></td>
-      <td>B.Tech in Information Technology</td>
-      <td>Undergraduate Degree</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>📱 <b>Mobile</b></td>
-      <td>Flutter App Development Specialization</td>
-      <td>Certification Course</td>
-      <td><a href="https://www.linkedin.com/in/priyadharshan7">Verify Credential</a></td>
-    </tr>
-    <tr>
-      <td>🧠 <b>AI / ML</b></td>
-      <td>Machine Learning Foundations & Computer Vision</td>
-      <td>Certification Course</td>
-      <td><a href="https://www.linkedin.com/in/priyadharshan7">Verify Credential</a></td>
-    </tr>
-    <tr>
-      <td>🛡️ <b>Security</b></td>
-      <td>Cybersecurity Awareness & Threat Modeling</td>
-      <td>Workshop & Hands-on Labs</td>
-      <td><a href="https://www.linkedin.com/in/priyadharshan7">Verify Credential</a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🌌 06. Terminal Output
+## ◈ `03 / LIVE GITHUB TELEMETRY`
 
 <div align="center">
 
-```bash
-priyadharshan@system:~$ ./launch_mission.sh --target="Impactful Software Engineering"
-[✓] Initializing Neural Networks & Heuristic Analyzers... Done.
-[✓] Deploying High-Performance Flutter Interfaces... Done.
-[✓] Verifying Cyber Defense Posture... Protected.
->>> System Status: Ready to collaborate on disruptive software solutions.
-```
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b1020&title_color=65f4f0&text_color=e5e7eb&icon_color=c084fc&include_all_commits=true" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b1020&title_color=65f4f0&text_color=e5e7eb" alt="Most used languages" />
+</a>
 
-<p>
-  <i>"Code is not just instructions for machines; it is the blueprint for tomorrow's reality."</i>
-</p>
+<br/>
 
-<p>
-  <a href="#-priyadharshan--futuristic-glassmorphism-developer-portfolio"><b>▲ Return to Top</b></a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1020&ring=8B5CF6&fire=F472B6&currStreakLabel=65F4F0&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b1020&color=e5e7eb&line=8b5cf6&point=65f4f0&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
+</a>
+
+</div>
+
+## ◈ `04 / CONTRIBUTION MATRIX`
+
+The contribution snake is generated daily by GitHub Actions. After uploading this repository, make sure **Actions** are enabled and run the workflow once.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## ◈ `05 / FEATURED PROJECTS`
+
+<!-- Replace these sample cards with your real repository names, descriptions and links. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ AI-Based Reverse Engineering Assistant
+An experimental assistant concept for helping developers inspect software behavior and understand technical artifacts.
+
+**Stack:** `Python` `AI/ML` `LLMs`
+
+[↗ View repository](https://github.com/YOUR_USERNAME/REPO_ONE)
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ Face Emotion Detection
+A computer-vision project exploring facial-expression classification and real-time detection.
+
+**Stack:** `Python` `OpenCV` `Flask` `Scikit-learn`
+
+[↗ View repository](https://github.com/YOUR_USERNAME/REPO_TWO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ Fake Job Detection
+A machine-learning project idea for classifying suspicious job postings and helping users assess risk.
+
+**Stack:** `Python` `Machine Learning` `NLP`
+
+[↗ View repository](https://github.com/YOUR_USERNAME/REPO_THREE)
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ SkillProof / Developer Portfolio
+A platform concept for presenting project evidence, skills, and mentor-verified learning.
+
+**Stack:** `Full Stack` `JavaScript` `Database`
+
+[↗ View repository](https://github.com/YOUR_USERNAME/REPO_FOUR)
+
+</td>
+</tr>
+</table>
+
+## ◈ `06 / CURRENT MISSION`
+
+<div align="center">
+
+| Mission | Status |
+|:--|:--|
+| Strengthen DSA and programming fundamentals | `IN PROGRESS` |
+| Build and deploy useful projects | `IN PROGRESS` |
+| Explore AI/ML and LLM applications | `EXPLORING` |
+| Improve software engineering practices | `ALWAYS ON` |
+
+</div>
+
+## ◈ `07 / CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repos-8B5CF6?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Animated neon footer" />
+
+<sub>Designed with curiosity, caffeine, and a lot of commits. · © Priyadharshan</sub>
 
 </div>
